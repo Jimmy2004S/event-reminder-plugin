@@ -1,0 +1,8 @@
+## [No lanzado]
+### Añadido
+- Campo de fecha de evento en la seccion de crear productos de Woocomerce
+
+
+### [1.0.0] - 2024-11-26
+
+Envía un correo recordatorio al cliente antes de la fecha del evento asociada con un pedido de WooCommerce.
